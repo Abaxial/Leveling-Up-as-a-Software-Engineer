@@ -8,7 +8,7 @@ A list of helpful git repositories : https://github.com/stars/Abaxial/lists/leve
 - Scoring Tech Talent 2022 - https://www.cbre.ca/insights/reports/scoring-tech-talent-2022 (Can download as PDF from page at this link).
 - Buiding a Production Level Webapp - https://12factor.net
 - Building a great readme (It's a readme creator) - https://readme.so
-- Commit Messages, Why and how to use them better - chris.beams.io/posts/git-commit
+- Commit Messages, Why and how to use them better - https://chris.beams.io/posts/git-commit
 
 ### Some Books:
 - Atomic Habits by James Clear
