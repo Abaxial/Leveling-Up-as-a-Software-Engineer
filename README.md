@@ -4,7 +4,7 @@ A list of helpful git repositories : https://github.com/stars/Abaxial/lists/leve
 
 ### Some links to elsewhere on the web:
 - System Design - The Big Archive : https://bytebyte-go.s3.amazonaws.com/ByteByteGo_LinkedIn_PDF.pdf
-- Code Architecture changes over time - highscalability.com/all-time-favorites
+- Code Architecture changes over time - https://highscalability.com/all-time-favorites
 - Career Roadmaps - https://roadmap.sh
 - Scoring Tech Talent 2022 - https://www.cbre.ca/insights/reports/scoring-tech-talent-2022 (Can download as PDF from page at this link).
 - Buiding a Production Level Webapp - https://12factor.net
