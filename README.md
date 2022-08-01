@@ -1,4 +1,7 @@
 # Leveling-Up-as-a-Software-Engineer
+
+Initial list built from many of Phong Theiu's (@phong.thieu) tiktoks and further expanded by my own exploration over time.
+
 ### Building a map to find my way
 A list of helpful git repositories : https://github.com/stars/Abaxial/lists/level-up-as-a-software-engineer
 
